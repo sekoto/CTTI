@@ -50,7 +50,7 @@ img[alt="centrar"] {
   * [Global](#global)
   * [Terminals corporatius](#terminals-corporatius)
   
-- [3. Arquitectura TELCO](#connectivitat) 
+- [3. Arquitectura TELCO](#3-Arquitectura-TELCO) 
   * [Disseny de solucions de xarxes](#disseny-de-solucions-de-xarxes)
   * [Tecnologia](#tecnologia )   
   * [Cost i mateniment](#cost-i-mateniment)
@@ -61,7 +61,7 @@ img[alt="centrar"] {
 
 ![minipic](/images/arq.png)
 
-## 1. Solucions LLdT
+# 1. Solucions LLdT
 *Els principis d’arquitectura CTTI són les normes i directrius generals destinades a ser perdurables i rarament modificables i tenen com a objectiu informar i recolzar la forma en què CTTI vol que s’implementin les xarxes de telecomunicacions.*
   
 ---
@@ -77,7 +77,7 @@ img[alt="centrar"] {
 ---
 ![minipic](/images/conn.png)
 
-# <a id="arqtelco"> 3. Arquitectura TELCO </a>
+# 3. Arquitectura TELCO
 *Els principis d’arquitectura CTTI són les normes i directrius generals destinades a ser perdurables i rarament modificables i tenen com a objectiu informar i recolzar la forma en què CTTI vol que s’implementin les xarxes de telecomunicacions.*
   
 ---
