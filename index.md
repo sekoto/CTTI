@@ -40,7 +40,7 @@ img[alt="centrar"] {
 </p>
 
  
-- [Solucions LLdT](#solucions-lldt)
+- [Solucions LLdT](#1-solucions-lldt)
   * [Disseny aplicacions escriptori](#disseny-aplicacions-escriptori)
   * [Tecnologia](#tecnologia )   
   * [Cost i mateniment](#cost-i-mateniment)
