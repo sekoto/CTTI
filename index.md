@@ -46,7 +46,7 @@ img[alt="centrar"] {
   * [Cost i mateniment](#cost-i-mateniment)
   
 
-- [2. Arquitectura LLdT](2-Arquitectura-LLdT)
+- [2. Arquitectura LLdT](#2-Arquitectura-LLdT)
   * [Global](#global)
   * [Terminals corporatius](#terminals-corporatius)
   
