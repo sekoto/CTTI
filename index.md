@@ -39,7 +39,9 @@ img[alt="centrar"] {
 </details>
 </p>
 
- ![minipic](/images/arq.png)
+<details>
+ <summary>Index dels Principis</summary>
+  
 - [1. Solucions LLdT](#solucions)
   * [Disseny aplicacions escriptori](#disseny-aplicacions-escriptori)
   * [Tecnologia](#tecnologia )   
@@ -54,7 +56,8 @@ img[alt="centrar"] {
   * [Disseny de solucions de xarxes](#disseny-de-solucions-de-xarxes)
   * [Tecnologia](#tecnologia )   
   * [Cost i mateniment](#cost-i-mateniment)
-        
+</details>
+
 ---
 <!-- toc -->
 
