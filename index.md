@@ -2,6 +2,12 @@
  <img width="746" height="352" src=ET_2.jpg>
 </p>
 
+<div align=“center”>
+ <div markdown=“1”>
+  ![ET](ET_2.jpg)
+ </div>
+</div>
+
 - [Connectivitat](#connectivitat)         - [Dispositius](#dispositius)
   * [Sub-heading](#sub-heading)
     + [Sub-sub-heading](#sub-sub-heading)
