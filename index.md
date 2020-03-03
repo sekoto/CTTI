@@ -36,10 +36,8 @@ img[alt="centrar"] {
 
 ---
 ![minipic](https://cburgales.github.io/CTTI/Conect_2.jpg)
-
 ## <a id="arqtelco"> Arquitectura TELCO </a>
-*Els principis d’arquitectura CTTI són les normes i directrius generals destinades a ser perdurables i rarament modificables i tenen com a objectiu informar i recolzar la forma en què CTTI vol que s’implementin les xarxes de telecomunicacions.*
-\
+Els principis d’arquitectura CTTI són les normes i directrius generals destinades a ser perdurables i rarament modificables i tenen com a objectiu informar i recolzar la forma en què CTTI vol que s’implementin les xarxes de telecomunicacions.
 ---
 
 ### <a id="Principisdissenytelco"> Principis de disseny </a>
