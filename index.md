@@ -1,6 +1,6 @@
 <style type="text/css">
 img[alt="minipic"] { 
-  max-width:  120px; 
+  max-width:  80px; 
   float: left;
   padding-right: 15px;
 }
