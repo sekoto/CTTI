@@ -9,18 +9,6 @@
 <div class="texto-encima">Texto</div>
 </div>
 
-.contenedor{
-    position: relative;
-    display: inline-block;
-    text-align: center;
-}
- 
-.texto-encima{
-    position: absolute;
-    top: 10px;
-    left: 10px;
-}
-
 - [Heading](#heading)
   * [Sub-heading](#sub-heading)
     + [Sub-sub-heading](#sub-sub-heading)
