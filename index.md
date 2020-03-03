@@ -20,13 +20,13 @@
  </body>
 </html>
 
-- [Heading](#Connectivitat)
+- [Connectivitat](#Connectivitat)
   * [Sub-heading](#sub-heading)
     + [Sub-sub-heading](#sub-sub-heading)
-- [Heading](#Dispositius del lloc de treball)
+- [Dispositius](#Dispositius)
   * [Sub-heading](#sub-heading-1)
     + [Sub-sub-heading](#sub-sub-heading-1)
-- [Heading](#Solucions del lloc de treball)
+- [Solucions](#Solucions)
   * [Sub-heading](#sub-heading-2)
     + [Sub-sub-heading](#sub-sub-heading-2)
 
@@ -49,7 +49,7 @@ This is an h2 heading
 
 This is an h3 heading
 
-## Dispositius del lloc de treball
+## Dispositius
 
 This is an h1 heading
 
@@ -61,7 +61,7 @@ This is an h2 heading
 
 This is an h3 heading
 
-## Solucions del lloc de treball
+## Solucions
 
 This is an h1 heading
 
