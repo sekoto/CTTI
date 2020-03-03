@@ -20,7 +20,7 @@
 </body>
 
 
-- [Connectivitat](#Heading)
+- [Connectivitat Heading](#Heading)
   * [Sub-heading](#sub-heading)
     + [Sub-sub-heading](#sub-sub-heading)
 - [Dispositius](#Heading)
