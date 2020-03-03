@@ -22,25 +22,24 @@ img[alt="centrar"] {
 <details>
  <summary>Index dels Principis</summary>
 
-+ **[Solucions LldT](#arqtelco)**
-    + nested list 1
-    + nested list 2
+* **[Solucions LldT](#arqtelco)**
+    * nested list 1
+    * nested list 2
     
-+ **[Arquitectura LldT](#arqtelco)**
+* **[Arquitectura LldT](#arqtelco)**
 
-+ **[Arquitectura Telco](#arqtelco)**
-    + [Principis de disseny](#Principisdissenytelco)
-    + [Principis tecnologics](#Principistecnotelco)
-    + [Principis de cost i manteniment](#Principiscosttelco)
+* **[Arquitectura Telco](#arqtelco)**
+    * [Principis de disseny](#Principisdissenytelco)
+    * [Principis tecnologics](#Principistecnotelco)
+    * [Principis de cost i manteniment](#Principiscosttelco)
 </details>
-
 
 ---
 ![minipic](https://cburgales.github.io/CTTI/Conect_2.jpg)
 
 ## <a id="arqtelco"> Arquitectura TELCO </a>
 *Els principis d’arquitectura CTTI són les normes i directrius generals destinades a ser perdurables i rarament modificables i tenen com a objectiu informar i recolzar la forma en què CTTI vol que s’implementin les xarxes de telecomunicacions.*
-</br>
+\
 ---
 
 ### <a id="Principisdissenytelco"> Principis de disseny </a>
