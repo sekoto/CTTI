@@ -20,13 +20,13 @@
  </body>
 </html>
 
-- [Heading](#heading)
+- [Heading](#Connectivitat)
   * [Sub-heading](#sub-heading)
     + [Sub-sub-heading](#sub-sub-heading)
-- [Heading](#heading-1)
+- [Heading](#Dispositius del lloc de treball)
   * [Sub-heading](#sub-heading-1)
     + [Sub-sub-heading](#sub-sub-heading-1)
-- [Heading](#heading-2)
+- [Heading](#Solucions del lloc de treball)
   * [Sub-heading](#sub-heading-2)
     + [Sub-sub-heading](#sub-sub-heading-2)
 
