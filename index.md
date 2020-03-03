@@ -40,18 +40,18 @@ img[alt="centrar"] {
 </p>
 
  
-- [1. Solucions LLdT](#1-solucions-lldt)
+- **[1. Solucions LLdT](#1-solucions-lldt)**
   * [Disseny aplicacions escriptori](#11-disseny-aplicacions-escriptori)
   * [Tecnologia](#12-tecnologia )   
     + [Virtualització aplicacions](#121-virtualitzacio-aplicacions)
   * [Cost i mateniment](#13-cost-i-mateniment)
   
 
-- [2. Arquitectura LLdT](#2-arquitectura-lldt)
+- **[2. Arquitectura LLdT](#2-arquitectura-lldt)**
   * [Global](#global)
   * [Terminals corporatius](#terminals-corporatius)
   
-- [3. Arquitectura TELCO](#3-arquitectura-telco) 
+- **[3. Arquitectura TELCO](#3-arquitectura-telco)**
   * [Disseny de solucions de xarxes](#disseny-de-solucions-de-xarxes)
   * [Tecnologia](#tecnologia )   
   * [Cost i mateniment](#cost-i-mateniment)
