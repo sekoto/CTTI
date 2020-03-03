@@ -2,7 +2,8 @@
   ![ET](ET_2.jpg)
 </div>
 
-![ET](Lldt.jpg) - [Connectivitat](#connectivitat)
+![ET](Lldt.jpg) 
+- [Connectivitat](#connectivitat)
   * [Sub-heading](#sub-heading)
     + [Sub-sub-heading](#sub-sub-heading)
 - [Dispositius](#dispositius)
