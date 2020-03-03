@@ -25,24 +25,40 @@ img[alt="centrar"] {
 <details>
  <summary>Index dels Principis</summary>
 
-- [Connectivitat](#connectivitat) 
-  * [Disseny de solucions de xarxes](#disseny-de-solucions-de-xarxes)
-  * [Tecnologia](#tecnologia )   
-  * [Cost i mateniment](#cost-i-mateniment)
-  
+* **[Solucions LldT](#arqtelco)**
+    * nested list 1
+    * nested list 2
+    
+* **[Arquitectura LldT](#arqtelco)**
 
-- [Dispositius del lloc de treball](#dispositius)
-  * [Global](#global)
-  * [Terminals corporatius](#terminals-corporatius)
-        
- 
-- [Solucions del lloc de treball](#solucions)
+* **[Arquitectura Telco](#arqtelco)**
+    * [Principis de disseny](#Principisdissenytelco)
+    * [Principis tecnologics](#Principistecnotelco)
+    * [Principis de cost i manteniment](#Principiscosttelco)
+    
+</details>
+</p>
+
+ ![minipic](/images/arq.png)
+ - [1. Solucions LLdT](#solucions)
   * [Disseny aplicacions escriptori](#disseny-aplicacions-escriptori)
   * [Tecnologia](#tecnologia )   
   * [Cost i mateniment](#cost-i-mateniment)
   
-</details>
-</p>
+
+- [2. Arquitectura LLdT](#dispositius)
+  * [Global](#global)
+  * [Terminals corporatius](#terminals-corporatius)
+  
+ - [3. Arquitectura TELCO](#connectivitat) 
+  * [Disseny de solucions de xarxes](#disseny-de-solucions-de-xarxes)
+  * [Tecnologia](#tecnologia )   
+  * [Cost i mateniment](#cost-i-mateniment)
+        
+<!-- toc -->
+
+# Connectivitat 
+
 
 ---
 
