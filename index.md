@@ -25,16 +25,22 @@ img[alt="centrar"] {
 <details>
  <summary>Index dels Principis</summary>
 
-* **[Solucions LldT](#arqtelco)**
-    * nested list 1
-    * nested list 2
-    
-* **[Arquitectura LldT](#arqtelco)**
+- [Connectivitat](#connectivitat) ![Conect](Conect.jpg)
+  * [Disseny de solucions de xarxes](#disseny-de-solucions-de-xarxes)
+  * [Tecnologia](#tecnologia )   
+  * [Cost i mateniment](#cost-i-mateniment)
+  
 
-* **[Arquitectura Telco](#arqtelco)**
-    * [Principis de disseny](#Principisdissenytelco)
-    * [Principis tecnologics](#Principistecnotelco)
-    * [Principis de cost i manteniment](#Principiscosttelco)
+- [Dispositius del lloc de treball](#dispositius) ![Dev](Dev.jpg)
+  * [Global](#global)
+  * [Terminals corporatius](#terminals-corporatius)
+        
+ 
+- [Solucions del lloc de treball](#solucions) ![Lldt](LLD.jpg) 
+  * [Disseny aplicacions escriptori](#disseny-aplicacions-escriptori)
+  * [Tecnologia](#tecnologia )   
+  * [Cost i mateniment](#cost-i-mateniment)
+  
 </details>
 </p>
 
