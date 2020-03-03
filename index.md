@@ -1,14 +1,4 @@
-<p align="center">
- <img width="746" height="352" src=ET_2.jpg>
-</p>
-
-<div align=“center”>
- <div markdown=“1”>
-  ![ET](ET_2.jpg)
- </div>
-</div>
-
-<div markdown="1" class="center">
+<div markdown="1" align="center">
   ![ET](ET_2.jpg)
 </div>
 
