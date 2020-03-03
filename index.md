@@ -39,12 +39,12 @@ img[alt="centrar"] {
 ---
 ![minipic](https://cburgales.github.io/CTTI/Conect_2.jpg)
 
-### <a id="arqtelco"> Arquitectura TELCO </a>
+## <a id="arqtelco"> Arquitectura TELCO </a>
 *Els principis d’arquitectura CTTI són les normes i directrius generals destinades a ser perdurables i rarament modificables i tenen com a objectiu informar i recolzar la forma en què CTTI vol que s’implementin les xarxes de telecomunicacions.*
 </br>
 ---
 
-#### <a id="Principisdissenytelco"> Principis de disseny </a>
+### <a id="Principisdissenytelco"> Principis de disseny </a>
 
 * **Adaptabilitat**. Capacitat per acollir noves funcionalitats i/o tecnologies minimitzant els canvis estructurals i els costos d'implementació.
 
@@ -69,7 +69,7 @@ img[alt="centrar"] {
 * **Provat**. Totes les noves solucions han de ser provades en un laboratori, per tal de revisar-les més enllà de la simulació i poder fer els ajustos necessaris. Obtenint així evidències de les proves efectuades, i conseqüentment del funcionament de la solució.
 
 
-#### <a id="Principistecnotelco"> Principis tecnologics </a>
+### <a id="Principistecnotelco"> Principis tecnologics </a>
 
 * **Estabilitat**. Les solucions a aplicar en les xarxes de telecomunicacions haurien de ser solucions amb un cert recorregut, no es recomanable utilitzar solucions poc madures a nivell de producció. Encara que, en certes situacions s’avaluara implementar solucions emergents.
 
@@ -78,7 +78,7 @@ img[alt="centrar"] {
 * **Minimitzar la dependència sobre els fabricants**. Cal evitar sempre que sigui possible les solucions propietàries, i maximitzar la compatibilitat amb la resta dels components i sistemes. Però, allunyant-nos de solucions massa heterogènies que puguin generar problemes de governança. 
 
 
-####  <a id="Principiscosttelco"> Principis de cost i manteniment </a>
+###  <a id="Principiscosttelco"> Principis de cost i manteniment </a>
 
 * **Arquitectura mínima**. Cal tenir sempre en compte l’escalabilitat de la xarxa, i caldrà minimitzar al màxim el marge de creixement del disseny. Basat en el principi de la automatització s’aconsegueix una reducció dels costos i temps dels processos d’instal·lació i manteniment, i una arquitectura sostenible en el temps, que doni una bona rendibilitat. 
  
@@ -86,6 +86,5 @@ img[alt="centrar"] {
 
 * **Impacte d’actualització**. Cal pensar en l’impacte que pugui generar una actualització a nivell de software, o equipament hardware de la xarxa de telecomunicacions. Cal sempre valorar quins seran els possibles canvis dintre de la xarxa, quins riscos i millores aportarà.
 
-</br></br>
 
 
