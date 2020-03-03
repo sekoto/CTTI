@@ -43,6 +43,7 @@ img[alt="centrar"] {
 - [1. Solucions LLdT](#1-solucions-lldt)
   * [Disseny aplicacions escriptori](#disseny-aplicacions-escriptori)
   * [Tecnologia](#tecnologia )   
+    + [Virtualització aplicacions](#virtualitzacio-aplicacions)
   * [Cost i mateniment](#cost-i-mateniment)
   
 
@@ -65,6 +66,11 @@ img[alt="centrar"] {
 *Els principis d’arquitectura CTTI són les normes i directrius generals destinades a ser perdurables i rarament modificables i tenen com a objectiu informar i recolzar la forma en què CTTI vol que s’implementin les xarxes de telecomunicacions.*
   
 ---
+## 1.1 Disseny aplicacions escriptori
+
+## 1.2 Tecnologia
+
+### 1.3 Virtualització aplicacions
 
 ---
 ![minipic](/images/lldt.png)
