@@ -41,10 +41,10 @@ img[alt="centrar"] {
 
  
 - [1. Solucions LLdT](#1-solucions-lldt)
-  * [Disseny aplicacions escriptori](#disseny-aplicacions-escriptori)
-  * [Tecnologia](#tecnologia )   
-    + [Virtualització aplicacions](#virtualitzacio-aplicacions)
-  * [Cost i mateniment](#cost-i-mateniment)
+  * [Disseny aplicacions escriptori](#11-disseny-aplicacions-escriptori)
+  * [Tecnologia](#12-tecnologia )   
+    + [Virtualització aplicacions](#121-virtualitzacio-aplicacions)
+  * [Cost i mateniment](#13-cost-i-mateniment)
   
 
 - [2. Arquitectura LLdT](#2-arquitectura-lldt)
@@ -70,7 +70,9 @@ img[alt="centrar"] {
 
 ## 1.2 Tecnologia
 
-### 1.3 Virtualització aplicacions
+### 1.2.1 Virtualització aplicacions
+
+## 1.3 Cost i mateniment
 
 ---
 ![minipic](/images/lldt.png)
