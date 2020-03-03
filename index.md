@@ -1,7 +1,6 @@
 <div markdown="1" align="center">
-  ![ET](ET_2.jpg)
+  ![ET](ET.jpg)
 </div>
-
 
 - ![Conect](Conect.jpg) [Connectivitat](#connectivitat) 
   * [Disseny-de-solucions-de-xarxes](#disseny-de-solucions-de-xarxes)
@@ -12,7 +11,7 @@
 - ![Dev](Dev.jpg) [Dispositius](#dispositius) 
   * [Global](#global)
   * [Terminals-corporatius](#terminals-corporatius)
-    
+        
  
 - ![Lldt](LLD.jpg) [Solucions](#solucions)  
   * [Disseny-aplicacions-escriptori](#disseny-aplicacions-escriptori)
