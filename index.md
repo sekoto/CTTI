@@ -20,6 +20,8 @@ img[alt="centrar"] {
   <area shape="rect" coords="375,300,575,330" alt="Sun" href="#arqtelco">
 </map>
 
+
+<p>
 <details>
  <summary>Index dels Principis</summary>
 
@@ -34,7 +36,7 @@ img[alt="centrar"] {
     * [Principis tecnologics](#Principistecnotelco)
     * [Principis de cost i manteniment](#Principiscosttelco)
 </details>
-
+</p>
 ---
 ![minipic](/images/arq.png)
 
