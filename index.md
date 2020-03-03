@@ -6,6 +6,7 @@ img[alt="minipic"] {
 }
 img[alt="centrar"] { 
   align: center;
+    max-width: 50%;
 }
 </style>
 
