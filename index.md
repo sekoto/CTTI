@@ -4,9 +4,10 @@
 
 ![Conect](Conect.jpg)
 - [Connectivitat](#connectivitat)
-  * [Sub-heading](#sub-heading)
-    + [Sub-sub-heading](#sub-sub-heading)
-    
+  * [Disseny-de-solucions-de-xarxes](#disseny-de-solucions-de-xarxes)
+  * [Tecnologia ](#tecnologia )   
+  * [Cost-i-mateniment](#cost-i-mateniment)
+  
 ![Dev](Dev.jpg)
 - [Dispositius](#dispositius)
   * [Sub-heading](#sub-heading-1)
@@ -28,7 +29,7 @@
 
 This is an h1 heading
 
-### Sub-heading
+### Disseny-de-solucions-de-xarxes
 
 This is an h2 heading
 
