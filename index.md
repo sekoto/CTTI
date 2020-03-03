@@ -37,7 +37,9 @@ img[alt="centrar"] {
     * [Principis de cost i manteniment](#Principiscosttelco)
 </details>
 </p>
+
 ---
+
 ![minipic](/images/arq.png)
 
 # <a id="arqtelco"> 1. Solucions LLdT </a>
