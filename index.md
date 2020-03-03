@@ -1,5 +1,5 @@
 <div markdown="1" align="center">
-  ![ET](ET.jpg)
+  ![ET](ET.JPG)
 </div>
 
 - ![Conect](Conect.jpg) [Connectivitat](#connectivitat) 
