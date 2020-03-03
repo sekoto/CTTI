@@ -40,13 +40,13 @@ img[alt="centrar"] {
 </p>
 
  
-- [Solucions LLdT](#1-solucions-lldt)
+- [1. Solucions LLdT](#1-solucions-lldt)
   * [Disseny aplicacions escriptori](#disseny-aplicacions-escriptori)
   * [Tecnologia](#tecnologia )   
   * [Cost i mateniment](#cost-i-mateniment)
   
 
-- [2. Arquitectura LLdT](#dispositius)
+- [2. Arquitectura LLdT](2-Arquitectura-LLdT)
   * [Global](#global)
   * [Terminals corporatius](#terminals-corporatius)
   
@@ -69,7 +69,7 @@ img[alt="centrar"] {
 ---
 ![minipic](/images/lldt.png)
 
-# <a id="arqtelco"> 2. Arquitectura LLdT </a>
+# 2. Arquitectura LLdT
 *Els principis d’arquitectura CTTI són les normes i directrius generals destinades a ser perdurables i rarament modificables i tenen com a objectiu informar i recolzar la forma en què CTTI vol que s’implementin les xarxes de telecomunicacions.*
   
 ---
