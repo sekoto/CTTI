@@ -20,13 +20,13 @@
 </body>
 
 
-- [Connectivitat](#Connectivitat)
+- [Heading](#Connectivitat)
   * [Sub-heading](#sub-heading)
     + [Sub-sub-heading](#sub-sub-heading)
-- [Dispositius](#Dispositius)
+- [Heading](#Dispositius)
   * [Sub-heading](#sub-heading-1)
     + [Sub-sub-heading](#sub-sub-heading-1)
-- [Solucions](#Solucions)
+- [Heading](#Solucions)
   * [Sub-heading](#sub-heading-2)
     + [Sub-sub-heading](#sub-sub-heading-2)
 
