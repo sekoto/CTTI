@@ -8,6 +8,10 @@
  </div>
 </div>
 
+<div markdown="1" class="center">
+  ![ET](ET_2.jpg)
+</div>
+
 - [Connectivitat](#connectivitat)         - [Dispositius](#dispositius)
   * [Sub-heading](#sub-heading)
     + [Sub-sub-heading](#sub-sub-heading)
