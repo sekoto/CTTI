@@ -1,4 +1,6 @@
-![GitHub Logo](ET_2.jpg)
+<p align="center">
+  <img width="746" height="352" src=ET_2.jpg>
+</p>
 
 - [Connectivitat](#connectivitat)         - [Dispositius](#dispositius)
   * [Sub-heading](#sub-heading)
