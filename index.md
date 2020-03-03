@@ -23,10 +23,10 @@
 - [Connectivitat](#Heading)
   * [Sub-heading](#sub-heading)
     + [Sub-sub-heading](#sub-sub-heading)
-- [Heading](#Dispositius)
+- [Dispositius](#Heading)
   * [Sub-heading](#sub-heading-1)
     + [Sub-sub-heading](#sub-sub-heading-1)
-- [Heading](#Solucions)
+- [Solucions](#Heading)
   * [Sub-heading](#sub-heading-2)
     + [Sub-sub-heading](#sub-sub-heading-2)
 
