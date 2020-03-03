@@ -46,11 +46,11 @@ img[alt="centrar"] {
   * [Cost i mateniment](#cost-i-mateniment)
   
 
-- [2. Arquitectura LLdT](#2-Arquitectura-LLdT)
+- [2. Arquitectura LLdT](#2-arquitectura-lldt)
   * [Global](#global)
   * [Terminals corporatius](#terminals-corporatius)
   
-- [3. Arquitectura TELCO](#3-Arquitectura-TELCO) 
+- [3. Arquitectura TELCO](#3-arquitectura-telco) 
   * [Disseny de solucions de xarxes](#disseny-de-solucions-de-xarxes)
   * [Tecnologia](#tecnologia )   
   * [Cost i mateniment](#cost-i-mateniment)
