@@ -11,18 +11,18 @@
 - [Connectivitat](#connectivitat) ![Conect](Conect.jpg)
   * [Disseny de solucions de xarxes](#disseny-de-solucions-de-xarxes)
   * [Tecnologia](#tecnologia )   
-  * [Cost-i-mateniment](#cost-i-mateniment)
+  * [Cost i mateniment](#cost-i-mateniment)
   
 
-- [Dispositius](#dispositius) ![Dev](Dev.jpg)
+- [Dispositius del lloc de treball](#dispositius) ![Dev](Dev.jpg)
   * [Global](#global)
-  * [Terminals-corporatius](#terminals-corporatius)
+  * [Terminals corporatius](#terminals-corporatius)
         
  
-- [Solucions](#solucions) ![Lldt](LLD.jpg) 
-  * [Disseny-aplicacions-escriptori](#disseny-aplicacions-escriptori)
+- [Solucions del lloc de treball](#solucions) ![Lldt](LLD.jpg) 
+  * [Disseny aplicacions escriptori](#disseny-aplicacions-escriptori)
   * [Tecnologia](#tecnologia )   
-  * [Cost-i-mateniment](#cost-i-mateniment)
+  * [Cost i mateniment](#cost-i-mateniment)
 
 
 <!-- toc -->
@@ -51,7 +51,7 @@ This is an h3 heading
 
 ### Cost-i-mateniment
 
-## Dispositius
+## Dispositius del lloc de treball
 
 This is an h1 heading
 
@@ -63,11 +63,11 @@ This is an h2 heading
 
 This is an h3 heading
 
-## Solucions
+## Solucions del lloc de treball
 
 This is an h1 heading
 
-### Disseny-aplicacions-escriptori
+### Disseny aplicacions escriptori
 
 This is an h2 heading
 
@@ -75,5 +75,5 @@ This is an h2 heading
 
 This is an h3 heading
 
-### Cost-i-mateniment
+### Cost i mateniment
 
