@@ -4,10 +4,6 @@
 
 # Principis de l'entorn de treball
 
-[TOCM]
-
-[TOC]
-
 - [Connectivitat](#connectivitat) ![Conect](Conect.jpg)
   * [Disseny de solucions de xarxes](#disseny-de-solucions-de-xarxes)
   * [Tecnologia](#tecnologia )   
