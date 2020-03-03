@@ -60,6 +60,7 @@ img[alt="centrar"] {
 
 
 ### <a id="Principisdissenytelco"> Principis de disseny </a>
+-------------
 
 * **Adaptabilitat**. Capacitat per acollir noves funcionalitats i/o tecnologies minimitzant els canvis estructurals i els costos d'implementació.
 
@@ -85,6 +86,7 @@ img[alt="centrar"] {
 
 
 ### <a id="Principistecnotelco"> Principis tecnologics </a>
+-------------
 
 * **Estabilitat**. Les solucions a aplicar en les xarxes de telecomunicacions haurien de ser solucions amb un cert recorregut, no es recomanable utilitzar solucions poc madures a nivell de producció. Encara que, en certes situacions s’avaluara implementar solucions emergents.
 
@@ -94,6 +96,7 @@ img[alt="centrar"] {
 
 
 ###  <a id="Principiscosttelco"> Principis de cost i manteniment </a>
+-------------
 
 * **Arquitectura mínima**. Cal tenir sempre en compte l’escalabilitat de la xarxa, i caldrà minimitzar al màxim el marge de creixement del disseny. Basat en el principi de la automatització s’aconsegueix una reducció dels costos i temps dels processos d’instal·lació i manteniment, i una arquitectura sostenible en el temps, que doni una bona rendibilitat. 
  
