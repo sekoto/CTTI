@@ -25,18 +25,18 @@ img[alt="centrar"] {
 <details>
  <summary>Index dels Principis</summary>
 
-- [Connectivitat](#connectivitat) ![Conect](Conect.jpg)
+- [Connectivitat](#connectivitat) 
   * [Disseny de solucions de xarxes](#disseny-de-solucions-de-xarxes)
   * [Tecnologia](#tecnologia )   
   * [Cost i mateniment](#cost-i-mateniment)
   
 
-- [Dispositius del lloc de treball](#dispositius) ![Dev](Dev.jpg)
+- [Dispositius del lloc de treball](#dispositius)
   * [Global](#global)
   * [Terminals corporatius](#terminals-corporatius)
         
  
-- [Solucions del lloc de treball](#solucions) ![Lldt](LLD.jpg) 
+- [Solucions del lloc de treball](#solucions)
   * [Disseny aplicacions escriptori](#disseny-aplicacions-escriptori)
   * [Tecnologia](#tecnologia )   
   * [Cost i mateniment](#cost-i-mateniment)
