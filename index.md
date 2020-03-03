@@ -2,6 +2,12 @@
   ![ET](ET.JPG)
 </div>
 
+# Principis de l'entorn de treball
+
+[TOCM]
+
+[TOC]
+
 - [Connectivitat](#connectivitat) ![Conect](Conect.jpg)
   * [Disseny-de-solucions-de-xarxes](#disseny-de-solucions-de-xarxes)
   * [Tecnologia](#tecnologia )   
@@ -18,10 +24,6 @@
   * [Tecnologia](#tecnologia )   
   * [Cost-i-mateniment](#cost-i-mateniment)
 
-
-# Principis de l'entorn de treball
-
-> This is a fixture to test heading levels
 
 <!-- toc -->
 
