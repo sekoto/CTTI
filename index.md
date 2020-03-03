@@ -45,7 +45,7 @@ img[alt="centrar"] {
 
 ### <a id="Principisdissenytelco"> Principis de disseny </a>
 
-* **Adaptabilitat**. Capacitat per acollir noves funcionalitats i/o tecnologies minimitzant els canvis estructurals i els costos d'implementació. \
+* **Adaptabilitat**. Capacitat per acollir noves funcionalitats i/o tecnologies minimitzant els canvis estructurals i els costos d'implementació.
 
 * **Escalabilitat**. Totes les solucions de xarxes de telecomunicacions han de suportar sense dificultats el creixement, moltes vegades continu, i sense que es tingui que redissenyar novament la solució. 
 
