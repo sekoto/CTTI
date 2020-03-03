@@ -2,7 +2,7 @@
   ![ET](ET.JPG)
 </div>
 
-# Principis de l'entorn de treball
+# Principis de l'entorn de treball {style="color: red;"}
 
 - [Connectivitat](#connectivitat) ![Conect](Conect.jpg)
   * [Disseny de solucions de xarxes](#disseny-de-solucions-de-xarxes)
