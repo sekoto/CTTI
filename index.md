@@ -31,13 +31,13 @@
     + [Sub-sub-heading](#sub-sub-heading-2)
 
 
-# Heading levels
+# Principis de l'entorn de treball
 
 > This is a fixture to test heading levels
 
 <!-- toc -->
 
-## Heading
+## Connectivitat
 
 This is an h1 heading
 
@@ -49,7 +49,7 @@ This is an h2 heading
 
 This is an h3 heading
 
-## Heading
+## Dispositius del lloc de treball
 
 This is an h1 heading
 
@@ -61,7 +61,7 @@ This is an h2 heading
 
 This is an h3 heading
 
-## Heading
+## Solucions del lloc de treball
 
 This is an h1 heading
 
