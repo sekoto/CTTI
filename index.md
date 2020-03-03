@@ -3,18 +3,18 @@
 </div>
 
 
-- [Connectivitat](#connectivitat) ![Conect](Conect.jpg)
+- ![Conect](Conect.jpg) [Connectivitat](#connectivitat) 
   * [Disseny-de-solucions-de-xarxes](#disseny-de-solucions-de-xarxes)
   * [Tecnologia](#tecnologia )   
   * [Cost-i-mateniment](#cost-i-mateniment)
   
 
-- [Dispositius](#dispositius) ![Dev](Dev.jpg)
+- ![Dev](Dev.jpg) [Dispositius](#dispositius) 
   * [Global](#global)
   * [Terminals-corporatius](#terminals-corporatius)
     
  
-- [Solucions](#solucions) ![Lldt](LLD.jpg) 
+- ![Lldt](LLD.jpg) [Solucions](#solucions)  
   * [Disseny-aplicacions-escriptori](#disseny-aplicacions-escriptori)
   * [Tecnologia](#tecnologia )   
   * [Cost-i-mateniment](#cost-i-mateniment)
