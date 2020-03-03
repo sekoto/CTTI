@@ -13,7 +13,7 @@
   * [Global](#global)
   * [Terminals-corporatius](#terminals-corporatius)
     
- ![Lldt](Lldt.jpg) 
+ ![Lldt](LLD.jpg) 
 - [Solucions](#solucions)
   * [Disseny-aplicacions-escriptori](#disseny-aplicacions-escriptori)
   * [Tecnologia](#tecnologia )   
