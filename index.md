@@ -5,18 +5,19 @@
 ![Conect](Conect.jpg)
 - [Connectivitat](#connectivitat)
   * [Disseny-de-solucions-de-xarxes](#disseny-de-solucions-de-xarxes)
-  * [Tecnologia ](#tecnologia )   
+  * [Tecnologia](#tecnologia )   
   * [Cost-i-mateniment](#cost-i-mateniment)
   
 ![Dev](Dev.jpg)
 - [Dispositius](#dispositius)
-  * [Sub-heading](#sub-heading-1)
-    + [Sub-sub-heading](#sub-sub-heading-1)
+  * [Global](#global)
+  * [Terminals-corporatius](#terminals-corporatius)
     
  ![Lldt](Lldt.jpg) 
 - [Solucions](#solucions)
-  * [Sub-heading](#sub-heading-2)
-    + [Sub-sub-heading](#sub-sub-heading-2)
+  * [Disseny-aplicacions-escriptori](#disseny-aplicacions-escriptori)
+  * [Tecnologia](#tecnologia )   
+  * [Cost-i-mateniment](#cost-i-mateniment)
 
 
 # Principis de l'entorn de treball
@@ -33,19 +34,21 @@ This is an h1 heading
 
 This is an h2 heading
 
-#### Sub-sub-heading
+### Tecnologia
 
 This is an h3 heading
+
+### Cost-i-mateniment
 
 ## Dispositius
 
 This is an h1 heading
 
-### Sub-heading
+### Global
 
 This is an h2 heading
 
-#### Sub-sub-heading
+### Terminals-corporatius
 
 This is an h3 heading
 
@@ -53,11 +56,13 @@ This is an h3 heading
 
 This is an h1 heading
 
-### Sub-heading
+### Disseny-aplicacions-escriptori
 
 This is an h2 heading
 
-#### Sub-sub-heading
+### Tecnologia
 
 This is an h3 heading
+
+### Cost-i-mateniment
 
