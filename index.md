@@ -11,7 +11,7 @@ img[alt="centrar"] {
 
 # Principis d'arquitectura d'entorn de treball
 
-<img src="/images/ET.png" alt="centrar" usemap="#planetmap">
+<img src="https://cburgales.github.io/CTTI/images/ET.png" alt="centrar" usemap="#planetmap">
 
 <map name="planetmap">
   <area shape="rect" coords="23,300,185,330" alt="Sun" href="#ArquitecturaTELCO">
