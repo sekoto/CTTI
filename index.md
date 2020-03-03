@@ -32,9 +32,8 @@ img[alt="centrar"] {
     + [Principis de disseny](#Principisdissenytelco)
     + [Principis tecnologics](#Principistecnotelco)
     + [Principis de cost i manteniment](#Principiscosttelco)
-
 </details>
-</br>
+
 
 ---
 ![minipic](https://cburgales.github.io/CTTI/Conect_2.jpg)
