@@ -41,19 +41,19 @@ img[alt="centrar"] {
 
  ![minipic](/images/arq.png)
 - [1. Solucions LLdT](#solucions)
- * [Disseny aplicacions escriptori](#disseny-aplicacions-escriptori)
- * [Tecnologia](#tecnologia )   
- * [Cost i mateniment](#cost-i-mateniment)
+  * [Disseny aplicacions escriptori](#disseny-aplicacions-escriptori)
+  * [Tecnologia](#tecnologia )   
+  * [Cost i mateniment](#cost-i-mateniment)
   
 
 - [2. Arquitectura LLdT](#dispositius)
- * [Global](#global)
- * [Terminals corporatius](#terminals-corporatius)
+  * [Global](#global)
+  * [Terminals corporatius](#terminals-corporatius)
   
 - [3. Arquitectura TELCO](#connectivitat) 
- * [Disseny de solucions de xarxes](#disseny-de-solucions-de-xarxes)
- * [Tecnologia](#tecnologia )   
- * [Cost i mateniment](#cost-i-mateniment)
+  * [Disseny de solucions de xarxes](#disseny-de-solucions-de-xarxes)
+  * [Tecnologia](#tecnologia )   
+  * [Cost i mateniment](#cost-i-mateniment)
         
 ---
 <!-- toc -->
