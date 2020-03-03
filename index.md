@@ -55,12 +55,8 @@ img[alt="centrar"] {
   * [Tecnologia](#tecnologia )   
   * [Cost i mateniment](#cost-i-mateniment)
         
-<!-- toc -->
-
-# Connectivitat 
-
-
 ---
+<!-- toc -->
 
 ![minipic](/images/arq.png)
 
