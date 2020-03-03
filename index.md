@@ -5,8 +5,9 @@ img[alt="minipic"] {
   padding-right: 15px;
 }
 img[alt="centrar"] { 
-  align: center;
-    max-width: 75%;
+margin-left: auto;
+margin-right: auto;
+   max-width: 75%;
 }
 </style>
 
