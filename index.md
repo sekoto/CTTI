@@ -76,6 +76,7 @@ img[alt="centrar"] {
 ---
 ![minipic](/images/arq.png)
 # 1. Solucions LLdT
+
 &nbsp;
 &nbsp;
 &nbsp;
@@ -83,11 +84,17 @@ img[alt="centrar"] {
 
 ## 1.1 Disseny aplicacions escriptori
 
+* **1.1.1 Usabilitat**. Tota aplicació implementada al lloc de treball ha d'estar orientada a l'usuari, tanmateix la facilitat d'ús de la solució juntament amb un bon rendiment de la mateixa donaran com a resultat una experiència d'usuari satisfactoria. Amb aquesta motivació caldrà realitzar les proves de qualitat i rendiment pertinents.
+
+* **1.1.2 Desacoblada i multi-plataforma**. Les aplicacions Web són la tipologia d'aplicacions prioritaria per lliurar al lloc de treball pels múltiples beneficis que ofereixen: agnòstiques al SO, maximitzen la mobilitat de l'usuari, faciliten l'administració, etc. Si per motius funcionals, tecnològics o econòmics, es requreix implementar una aplicació escriptori al lloc de treball caldrà avaluar les tecnologies, APIs i Frameworks que millor encaixen per assolir aquests principis.
+
+* **Interoperatbiltat**. 
+
 ## 1.2 Tecnologia
 
 ### 1.2.1 Virtualització d'aplicacions
 
-La virtualització d'aplicacions és l'acte d'aïllar o desacoblar un recurs informàtic dels altres, mitjanánt la generació d'un paquet que inclogui tots els objectes i fitxers que requereixi l'aplicació per funcionar i amb l'objectiu de poder-la executar sense necessitat d'instal·lació. 
+La virtualització d'aplicacions és l'acte d'aïllar o desacoblar un recurs informàtic dels altres, mitjançant la generació d'un paquet que inclou tots els objectes i fitxers que requereixi l'aplicació per funcionar i amb l'objectiu de poder-la executar sense necessitat d'instal·lació. 
 
 En aquells casos d'ús on la virtualització d'aplicacions esdevingui com el mètode d'implementació adient caldrà seguir els següents principis associats amb la creació, execució i manteniment del paquet. Els principals motius pels que s'utilitzarà aquesta tecnologia són:
 
@@ -96,6 +103,7 @@ En aquells casos d'ús on la virtualització d'aplicacions esdevingui com el mè
 3. Ritme d'actualitzacions de l'aplicació escriptori molt elevat.
 4. Es requreixi un implementació o desimplementació de l'aplicació molt àgil.
 
+Principis:
 
 * **1.2.1.1 Filosofia de “micro-serveis” o “components desacoblats”** amb l’objectiu de maximitzar la reutilització dels mateixos alhora que es minimitzen els esforços i l’impacte al servei per mantenir el cicle de vida de les aplicacions. Entenem que es segueix aquesta filosofia quan s'assoleixen les següents premisses:
   * a)	Ús de dependències: es generarà un paquet independent per aquells components susceptibles de ser reutilitzats o que poden ser modificats i actualitzats sense afectar a la resta de components (p.e.: frameworks, runtimes, visors o editors de documents, plugins, etc).
