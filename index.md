@@ -17,8 +17,8 @@ img[alt="centrar"] {
 
 <map name="planetmap">
   <area shape="rect" coords="20,250,170,300" alt="Sun" href="#1-solucions-lldt">
-  <area shape="rect" coords="175,250,325,300" alt="Sun" href="#ArquitecturaTELCO">
-  <area shape="rect" coords="330,250,480,300" alt="Sun" href="#arqtelco">
+  <area shape="rect" coords="175,250,325,300" alt="Sun" href="#2-arquitectura-lldt">
+  <area shape="rect" coords="330,250,480,300" alt="Sun" href="#3-arquitectura-telco">
 </map>
 
 <map name="image-map">
