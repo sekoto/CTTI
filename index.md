@@ -22,9 +22,9 @@ img[alt="centrar"] {
 </map>
 
 <map name="image-map">
-    <area target="" alt="solucions" title="solucions" href="solucions" coords="37,371,227,399" shape="rect">
-    <area target="" alt="lldt" title="lldt" href="arquitecturalldt" coords="242,369,457,400" shape="rect">
-    <area target="" alt="telco" title="telco" href="arquitecturatelco" coords="467,371,681,399" shape="rect">
+    <area shape="rect" alt="solucions" title="solucions" href="solucions" coords="37,371,227,399">
+    <area shape="rect" alt="lldt" title="lldt" href="arquitecturalldt" coords="242,369,457,400">
+    <area shape="rect" alt="telco" title="telco" href="arquitecturatelco" coords="467,371,681,399">
 </map>
 
 ### Índex dels principis de l'entorn de treball
