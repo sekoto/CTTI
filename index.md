@@ -75,9 +75,9 @@ img[alt="centrar"] {
 ## 1.3 Cost i mateniment
 
 ---
-![minipic](/images/lldt.png)
 
 # 2. Arquitectura LLdT
+![minipic](/images/lldt.png)
 *Els principis d’arquitectura CTTI són les normes i directrius generals destinades a ser perdurables i rarament modificables i tenen com a objectiu informar i recolzar la forma en què CTTI vol que s’implementin les xarxes de telecomunicacions.*
   
 ---
