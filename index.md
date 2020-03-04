@@ -28,11 +28,14 @@ img[alt="centrar"] {
   * [1.2 Tecnologia](#12-tecnologia )   
     + [1.2.1 Virtualització aplicacions](#121-virtualització-aplicacions)
   * [1.3 Cost i mateniment](#13-cost-i-mateniment)
-  
+
+&nbsp;
 
 - **[2. Arquitectura LLdT](#2-arquitectura-lldt)**
   * [2.1. Global](#21-global)
   * [2.2 Terminals corporatius](#22-terminals-corporatius)
+  
+&nbsp;
   
 - **[3. Arquitectura TELCO](#3-arquitectura-telco)**
   * [3.1 Principis de disseny](#31-principis-de-disseny)
