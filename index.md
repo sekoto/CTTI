@@ -58,8 +58,8 @@ img[alt="centrar"] {
 &nbsp;
 &nbsp;
 &nbsp;
----
 
+---
 ![minipic](/images/ET_icon.png)
 # 0. Principis globals
 &nbsp;
