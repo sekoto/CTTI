@@ -36,7 +36,7 @@ img[alt="centrar"] {
 - **[1. Solucions LLdT](#1-solucions-lldt)**
   * [1.1 Disseny aplicacions escriptori](#11-disseny-aplicacions-escriptori)
   * [1.2 Tecnologia](#12-tecnologia )   
-    + [1.2.1 Virtualització aplicacions](#121-virtualització-aplicacions)
+    + [1.2.1 Virtualització d'aplicacions](#121-virtualització-d'aplicacions)
   * [1.3 Cost i mateniment](#13-cost-i-mateniment)
 &nbsp;
 - **[2. Arquitectura LLdT](#2-arquitectura-lldt)**
@@ -85,7 +85,17 @@ img[alt="centrar"] {
 
 ## 1.2 Tecnologia
 
-### 1.2.1 Virtualització aplicacions
+### 1.2.1 Virtualització d'aplicacions
+
+La virtualització d'aplicacions és l'acte d'aïllar o desacoblar un recurs informàtic dels altres, mitjanánt la generació d'un paquet que inclogui tots els objectes i fitxers que requereixi l'aplicació per funcionar i amb l'objectiu de poder-la executar sense necessitat d'instal·lació. 
+
+En aquells casos d'ús on la virtualització d'aplicacions esdevingui com el mètode d'implementació adient caldrà seguir els següents principis associats amb la creació, execució i manteniment del paquet. Els principals motius pels que s'utilitzarà aquesta tecnologia són:
+
+1. Execució de múltiples versions o instàncies de la mateixa aplicació escriptori en el mateix entorn.
+2. Remediar conflictes entre aplicacions.
+3. Ritme d'actualitzacions de l'aplicació escriptori molt elevat.
+4. Es requreixi un implementació o desimplementació de l'aplicació molt àgil.
+
 
 * **1.2.1.1 Filosofia de “micro-serveis” o “components desacoblats”** amb l’objectiu de maximitzar la reutilització dels mateixos alhora que es minimitzen els esforços i l’impacte al servei per mantenir el cicle de vida de les aplicacions. Entenem que es segueix aquesta filosofia quan s'assoleixen les següents premisses:
   * a)	Ús de dependències: es generarà un paquet independent per aquells components susceptibles de ser reutilitzats o que poden ser modificats i actualitzats sense afectar a la resta de components (p.e.: frameworks, runtimes, visors o editors de documents, plugins, etc).
