@@ -16,7 +16,7 @@ img[alt="centrar"] {
 
 
 <map name="planetmap">
-  <area shape="rect" coords="10,50,240,90" alt="Sun" href="#0-globals">
+  <area shape="rect" coords="10,50,240,90" alt="Sun" href="#0-principis-globals">
   <area shape="rect" coords="20,250,170,300" alt="Sun" href="#1-solucions-lldt">
   <area shape="rect" coords="175,250,325,300" alt="Sun" href="#2-arquitectura-lldt">
   <area shape="rect" coords="330,250,480,300" alt="Sun" href="#3-arquitectura-telco">
@@ -65,7 +65,9 @@ img[alt="centrar"] {
 &nbsp;
 &nbsp;
 
-* **0.1 Estandarització**.  
+* **0.1 Estandarització**. Cal vetllar perquè els dissenys d'alt nivell de les arquitectures de l'entorn de treball esdevinguin un model estàndar que permeti implemantar-lo a qualsevol escenari amb el mínim de canvis necessaris. 
+  * [Estàndards de l'entorn de treball](https://gencat.sharepoint.com/:x:/s/arquitecturasicpd/EZseBopn5rlNunUw11ODpqkB4GjH8Xq1MpPlkc0lpERamg?e=uENvXu): Catàleg dels dissenys estàndards amb diferent abast: àmbit o transversal.
+
 &nbsp;
 &nbsp;
 &nbsp;
@@ -84,6 +86,26 @@ img[alt="centrar"] {
 ## 1.2 Tecnologia
 
 ### 1.2.1 Virtualització aplicacions
+
+* **1.2.1.1 Filosofia de “micro-serveis” o “components desacoblats”** amb l’objectiu de maximitzar la reutilització dels mateixos alhora que es minimitzen els esforços i l’impacte al servei per mantenir el cicle de vida de les aplicacions. Entenem que es segueix aquesta filosofia quan s'assoleixen les següents premisses:
+  * a)	Ús de dependències: es generarà un paquet independent per aquells components susceptibles de ser reutilitzats o que poden ser modificats i actualitzats sense afectar a la resta de components (p.e.: frameworks, runtimes, visors o editors de documents, plugins, etc).
+
+  * b) 	Els paquets principals no han d’incloure paràmetres de configuracions específics de l'aplicació o del sistema (p.e.: strings de connexió, nom de BBDD, etc). Aquestes personalitzacions s'inclouran en un paquet diferent o s'implementaran mitjançant una eina de gestió de l'entorn d'usuari (UEM).
+
+* **1.2.1.2 Simplicitat** del paquet i del perfil d'usuari. Els fitxers i claus de registre a mantenir seran els mínims necessaris perquè l'aplicació sigui funcional per complet.
+
+* **1.2.1.3 Auto-contingut i auto-configurat.** És necessari garantir que la combinació del paquet principal + paquets dependents incorporen el total de fitxers i claus de registre necessàries per treballar amb l'aplicació1. Tanmateix, cal evitar la necessitat de configuracions manuals mitjançant una parametrització pre-establerta. 
+
+* **1.2.1.4 L’entorn d’execució (bombolla) ha de ser segur,** aplicant les mesures restrictives necessàries per permetre només la interoperabilitat amb el sistema i aquells serveis completament imprescindibles pel bon funcionament de l’aplicació.
+
+* **1.2.1.5 Cal vetllar per la compatibilitat del paquet,** avaluant el correcte funcionament del mateix en les diverses versions de Windows suportades pel lloc de treball de la Generalitat de Catalunya, en aquelles arquitectures compatibles amb l'aplicació (32bit \ 64bit). Al [full de ruta de programari](https://qualitat.solucions.gencat.cat/estandards/estandard-full-ruta-programari/), s’informa quines són aquestes versions i compilacions de SO.
+
+* **1.2.1.6 L’experiència d’usuari persistent**, sense importar des de quin terminal -gestionat- s’executi, per tant, l’aplicació ha d’estar preparada per l’ús de perfils roaming i serà al perfil de l’usuari on es redirigiran tots els fitxers de treball i aquells fitxers destinats a personalitzar la configuració de l’aplicació. 
+
+* **1.2.1.7	El paquet ha d'estar preparat** per una completa desinstal·lació i una actualització automatitzada pels mecanismes establerts.
+
+* **1.2.1.8	Cicle de vida inalterable**. La virtualització de l'aplicació no ha d'interferir en el cicle de vida de la mateixa, el qual haurà d'anar alineat amb la versió del SO i demés programari present en els terminals client on es pretén executar.
+
 
 ## 1.3 Cost i mateniment
 
