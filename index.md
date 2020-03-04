@@ -31,7 +31,7 @@ img[alt="centrar"] {
 
 ### Índex dels principis de l'entorn de treball
 
-- **[0. Globals](#0-globals)**
+- **[0. Principis globals](#0-globals)**
 
 - **[1. Solucions LLdT](#1-solucions-lldt)**
   * [1.1 Disseny aplicacions escriptori](#11-disseny-aplicacions-escriptori)
@@ -40,7 +40,7 @@ img[alt="centrar"] {
   * [1.3 Cost i mateniment](#13-cost-i-mateniment)
 &nbsp;
 - **[2. Arquitectura LLdT](#2-arquitectura-lldt)**
-  * [2.1. Global](#21-global)
+  * [2.1. Dispositius](#21-dispositius)
   * [2.2 Terminals corporatius](#22-terminals-corporatius)
 &nbsp;  
 - **[3. Arquitectura TELCO](#3-arquitectura-telco)**
@@ -58,8 +58,15 @@ img[alt="centrar"] {
 &nbsp;
 &nbsp;
 &nbsp;
+---
 
-# 0. Globals
+![minipic](/images/ET_icon.png)
+# 0. Principis globals
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 ---
 ![minipic](/images/arq.png)
@@ -93,7 +100,7 @@ img[alt="centrar"] {
 &nbsp;
 &nbsp;
 
-## 2.1 Global
+## 2.1 Dispositius
 
 ## 2.2 Terminals corporatius
 
