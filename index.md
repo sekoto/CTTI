@@ -44,7 +44,7 @@ img[alt="centrar"] {
 
 # Principis d'arquitectura d'entorn de treball
 &nbsp;
-Els principis d’arquitectura CTTI són les normes i directrius generals destinades a ser perdurables i rarament modificables i tenen com a objectiu informar i recolzar la forma en què CTTI vol que s’implementin les xarxes de telecomunicacions.
+*Els principis d’arquitectura CTTI són les normes i directrius generals destinades a ser perdurables i rarament modificables i tenen com a objectiu informar i recolzar la forma en què CTTI vol que s’implementin les xarxes de telecomunicacions.*
 
 &nbsp;
 &nbsp;
@@ -53,7 +53,8 @@ Els principis d’arquitectura CTTI són les normes i directrius generals destin
 ---
 ![minipic](/images/arq.png)
 # 1. Solucions LLdT
-
+&nbsp;
+&nbsp;
 &nbsp;
 &nbsp;
 
@@ -76,7 +77,8 @@ Els principis d’arquitectura CTTI són les normes i directrius generals destin
 
 ![minipic](/images/lldt.png)
 # 2. Arquitectura LLdT
-*Els principis d’arquitectura CTTI són les normes i directrius generals destinades a ser perdurables i rarament modificables i tenen com a objectiu informar i recolzar la forma en què CTTI vol que s’implementin les xarxes de telecomunicacions.*
+&nbsp;
+&nbsp;
 &nbsp;
 &nbsp;
 
@@ -95,7 +97,8 @@ Els principis d’arquitectura CTTI són les normes i directrius generals destin
 ![minipic](/images/conn.png)
 
 # 3. Arquitectura TELCO
-*Els principis d’arquitectura CTTI són les normes i directrius generals destinades a ser perdurables i rarament modificables i tenen com a objectiu informar i recolzar la forma en què CTTI vol que s’implementin les xarxes de telecomunicacions.*
+&nbsp;
+&nbsp;
 &nbsp;
 &nbsp;
 
