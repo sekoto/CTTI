@@ -12,13 +12,13 @@ img[alt="centrar"] {
 </style>
 
 
-<img src="https://cburgales.github.io/CTTI/images/ET.png" alt="centrar" usemap="#image-map">
+<img src="https://cburgales.github.io/CTTI/images/ET.png" alt="centrar" usemap="#planetmap">
 
 
 <map name="planetmap">
-  <area shape="rect" coords="23,300,185,330" alt="Sun" href="#ArquitecturaTELCO">
-  <area shape="rect" coords="190,300,371,330" alt="Sun" href="#ArquitecturaTELCO">
-  <area shape="rect" coords="375,300,575,330" alt="Sun" href="#arqtelco">
+  <area shape="rect" coords="23,250,185,330" alt="Sun" href="#ArquitecturaTELCO">
+  <area shape="rect" coords="190,250,371,330" alt="Sun" href="#ArquitecturaTELCO">
+  <area shape="rect" coords="375,250,575,330" alt="Sun" href="#arqtelco">
 </map>
 
 <map name="image-map">
