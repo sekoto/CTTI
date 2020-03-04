@@ -16,6 +16,7 @@ img[alt="centrar"] {
 
 
 <map name="planetmap">
+  <area shape="rect" coords="10,50,200,120" alt="Sun" href="#0-globals">
   <area shape="rect" coords="20,250,170,300" alt="Sun" href="#1-solucions-lldt">
   <area shape="rect" coords="175,250,325,300" alt="Sun" href="#2-arquitectura-lldt">
   <area shape="rect" coords="330,250,480,300" alt="Sun" href="#3-arquitectura-telco">
@@ -23,11 +24,14 @@ img[alt="centrar"] {
 
 <map name="image-map">
     <area shape="rect" alt="solucions" title="solucions" href="solucions" coords="37,371,227,399">
+    <area shape="rect" alt="solucions" title="solucions" href="solucions" coords="37,371,227,399">
     <area shape="rect" alt="lldt" title="lldt" href="arquitecturalldt" coords="242,369,457,400">
     <area shape="rect" alt="telco" title="telco" href="arquitecturatelco" coords="467,371,681,399">
 </map>
 
 ### Índex dels principis de l'entorn de treball
+
+- **[0. Globals](#0-globals)**
 
 - **[1. Solucions LLdT](#1-solucions-lldt)**
   * [1.1 Disseny aplicacions escriptori](#11-disseny-aplicacions-escriptori)
@@ -51,10 +55,11 @@ img[alt="centrar"] {
 # Principis d'arquitectura d'entorn de treball
 &nbsp;
 *Els principis d’arquitectura CTTI són les normes i directrius generals destinades a ser perdurables i rarament modificables i tenen com a objectiu informar i recolzar la forma en què CTTI vol que s’implementin les xarxes de telecomunicacions.*
+&nbsp;
+&nbsp;
+&nbsp;
 
-&nbsp;
-&nbsp;
-&nbsp;
+# 0. Globals
 
 ---
 ![minipic](/images/arq.png)
