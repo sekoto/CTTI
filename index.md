@@ -43,18 +43,18 @@ img[alt="centrar"] {
 - **[1. Solucions LLdT](#1-solucions-lldt)**
   * [Disseny aplicacions escriptori](#11-disseny-aplicacions-escriptori)
   * [Tecnologia](#12-tecnologia )   
-    + [Virtualització aplicacions](#121-virtualitzacio-aplicacions)
+    + [Virtualització aplicacions](#121-virtualització-aplicacions)
   * [Cost i mateniment](#13-cost-i-mateniment)
   
 
 - **[2. Arquitectura LLdT](#2-arquitectura-lldt)**
-  * [Global](#global)
-  * [Terminals corporatius](#terminals-corporatius)
+  * [2.1. Global](#21-global)
+  * [2.2 Terminals corporatius](#22-terminals-corporatius)
   
 - **[3. Arquitectura TELCO](#3-arquitectura-telco)**
-  * [Disseny de solucions de xarxes](#disseny-de-solucions-de-xarxes)
-  * [Tecnologia](#tecnologia )   
-  * [Cost i mateniment](#cost-i-mateniment)
+  * [3.1 Principis de disseny](#31-principis-de-disseny)
+  * [3.2 Principis tecnologics](#32-principis-tecnologics)   
+  * [3.3 Principis de cost i mateniment](#33-principis-de-cost-i-mateniment)
 
 
 ---
@@ -81,7 +81,9 @@ img[alt="centrar"] {
 *Els principis d’arquitectura CTTI són les normes i directrius generals destinades a ser perdurables i rarament modificables i tenen com a objectiu informar i recolzar la forma en què CTTI vol que s’implementin les xarxes de telecomunicacions.*
   
 ---
+## 2.1 Global
 
+## 2.2 Terminals corporatius
 ---
 ![minipic](/images/conn.png)
 
@@ -91,7 +93,7 @@ img[alt="centrar"] {
 ---
 
 
-## <a id="Principisdissenytelco"> 3.1 Principis de disseny </a>
+## 3.1 Principis de disseny
 
 * **3.1.1 Adaptabilitat**. Capacitat per acollir noves funcionalitats i/o tecnologies minimitzant els canvis estructurals i els costos d'implementació.
 
@@ -116,7 +118,7 @@ img[alt="centrar"] {
 * **3.1.9 Provat**. Totes les noves solucions han de ser provades en un laboratori, per tal de revisar-les més enllà de la simulació i poder fer els ajustos necessaris. Obtenint així evidències de les proves efectuades, i conseqüentment del funcionament de la solució.
 
 
-## <a id="Principistecnotelco"> 3.2 Principis tecnologics </a>
+## 3.2 Principis tecnologics
 
 * **3.2.1 Estabilitat**. Les solucions a aplicar en les xarxes de telecomunicacions haurien de ser solucions amb un cert recorregut, no es recomanable utilitzar solucions poc madures a nivell de producció. Encara que, en certes situacions s’avaluara implementar solucions emergents.
 
@@ -125,7 +127,7 @@ img[alt="centrar"] {
 * **3.2.3 Minimitzar la dependència sobre els fabricants**. Cal evitar sempre que sigui possible les solucions propietàries, i maximitzar la compatibilitat amb la resta dels components i sistemes. Però, allunyant-nos de solucions massa heterogènies que puguin generar problemes de governança. 
 
 
-##  <a id="Principiscosttelco"> 3.3 Principis de cost i manteniment </a>
+##  3.3 Principis de cost i manteniment
 
 * **3.3.1 Arquitectura mínima**. Cal tenir sempre en compte l’escalabilitat de la xarxa, i caldrà minimitzar al màxim el marge de creixement del disseny. Basat en el principi de la automatització s’aconsegueix una reducció dels costos i temps dels processos d’instal·lació i manteniment, i una arquitectura sostenible en el temps, que doni una bona rendibilitat. 
  
