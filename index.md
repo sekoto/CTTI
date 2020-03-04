@@ -57,7 +57,6 @@ Els principis d’arquitectura CTTI són les normes i directrius generals destin
 &nbsp;
 &nbsp;
 
----
 ## 1.1 Disseny aplicacions escriptori
 
 ## 1.2 Tecnologia
