@@ -20,13 +20,6 @@ img[alt="centrar"] {
   <area shape="rect" coords="375,300,575,330" alt="Sun" href="#arqtelco">
 </map>
 
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-
 ### Índex dels principis de l'entorn de treball
 
 - **[1. Solucions LLdT](#1-solucions-lldt)**
@@ -55,8 +48,9 @@ img[alt="centrar"] {
 ![minipic](/images/arq.png)
 *Els principis d’arquitectura CTTI són les normes i directrius generals destinades a ser perdurables i rarament modificables i tenen com a objectiu informar i recolzar la forma en què CTTI vol que s’implementin les xarxes de telecomunicacions.*
 
-&NewLine;
-&NewLine;
+&nbsp;
+&nbsp;
+
 ---
 ## 1.1 Disseny aplicacions escriptori
 
@@ -66,8 +60,12 @@ img[alt="centrar"] {
 
 ## 1.3 Cost i mateniment
 
-&NewLine;
-&NewLine;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 ---
 
@@ -79,8 +77,13 @@ img[alt="centrar"] {
 ## 2.1 Global
 
 ## 2.2 Terminals corporatius
-&NewLine;
-&NewLine;
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 ---
 # 3. Arquitectura TELCO
