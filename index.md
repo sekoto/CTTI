@@ -92,7 +92,7 @@ img[alt="centrar"] {
 
   * b) 	Els paquets principals no han d’incloure paràmetres de configuracions específics de l'aplicació o del sistema (p.e.: strings de connexió, nom de BBDD, etc). Aquestes personalitzacions s'inclouran en un paquet diferent o s'implementaran mitjançant una eina de gestió de l'entorn d'usuari (UEM).
 
-* **1.2.1.2 Simplicitat** del paquet i del perfil d'usuari. Els fitxers i claus de registre a mantenir seran els mínims necessaris perquè l'aplicació sigui funcional per complet.
+* **1.2.1.2 Simplicitat** del paquet i del perfil d'usuari. Els fitxers i claus de registre a mantenir seran els mínims necessaris perquè l'aplicació sigui completament funcional.
 
 * **1.2.1.3 Auto-contingut i auto-configurat.** És necessari garantir que la combinació del paquet principal + paquets dependents incorporen el total de fitxers i claus de registre necessàries per treballar amb l'aplicació1. Tanmateix, cal evitar la necessitat de configuracions manuals mitjançant una parametrització pre-establerta. 
 
@@ -187,21 +187,4 @@ img[alt="centrar"] {
 
 * **3.3.3 Impacte d’actualització**. Cal pensar en l’impacte que pugui generar una actualització a nivell de software, o equipament hardware de la xarxa de telecomunicacions. Cal sempre valorar quins seran els possibles canvis dintre de la xarxa, quins riscos i millores aportarà.
 
-<p>
-<details>
- <summary>Index dels Principis</summary>
-
-* **[Solucions LldT](#arqtelco)**
-    * nested list 1
-    * nested list 2
-    
-* **[Arquitectura LldT](#arqtelco)**
-
-* **[Arquitectura Telco](#arqtelco)**
-    * [Principis de disseny](#Principisdissenytelco)
-    * [Principis tecnologics](#Principistecnotelco)
-    * [Principis de cost i manteniment](#Principiscosttelco)
-    
-</details>
-</p>
 
