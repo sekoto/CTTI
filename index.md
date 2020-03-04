@@ -60,7 +60,7 @@ img[alt="centrar"] {
 &nbsp;
 ---
 
-![minipic](/images/ET_icon2.png)
+![minipic](/images/ET_icon.png)
 # 0. Principis globals
 &nbsp;
 &nbsp;
