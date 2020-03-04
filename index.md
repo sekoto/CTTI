@@ -52,7 +52,7 @@ img[alt="centrar"] {
 &nbsp;
 &nbsp;
 
-# Principis d'arquitectura d'entorn de treball
+# Introducció
 &nbsp;
 *Els principis d’arquitectura CTTI són les normes i directrius generals destinades a ser perdurables i rarament modificables i tenen com a objectiu informar i recolzar la forma en què CTTI vol que s’implementin les xarxes de telecomunicacions.*
 &nbsp;
