@@ -10,7 +10,6 @@ img[alt="centrar"] {
 }
 </style>
 
-# Principis d'arquitectura d'entorn de treball
 
 <img src="https://cburgales.github.io/CTTI/images/ET.png" alt="centrar" usemap="#planetmap">
 
@@ -20,26 +19,8 @@ img[alt="centrar"] {
   <area shape="rect" coords="375,300,575,330" alt="Sun" href="#arqtelco">
 </map>
 
+### Índex dels principis de l'entorn de treball
 
-<p>
-<details>
- <summary>Index dels Principis</summary>
-
-* **[Solucions LldT](#arqtelco)**
-    * nested list 1
-    * nested list 2
-    
-* **[Arquitectura LldT](#arqtelco)**
-
-* **[Arquitectura Telco](#arqtelco)**
-    * [Principis de disseny](#Principisdissenytelco)
-    * [Principis tecnologics](#Principistecnotelco)
-    * [Principis de cost i manteniment](#Principiscosttelco)
-    
-</details>
-</p>
-
- 
 - **[1. Solucions LLdT](#1-solucions-lldt)**
   * [1.1 Disseny aplicacions escriptori](#11-disseny-aplicacions-escriptori)
   * [1.2 Tecnologia](#12-tecnologia )   
@@ -59,6 +40,8 @@ img[alt="centrar"] {
 
 ---
 <!-- toc -->
+
+# Principis d'arquitectura d'entorn de treball
 
 ![minipic](/images/arq.png)
 
@@ -135,5 +118,21 @@ img[alt="centrar"] {
 
 * **3.3.3 Impacte d’actualització**. Cal pensar en l’impacte que pugui generar una actualització a nivell de software, o equipament hardware de la xarxa de telecomunicacions. Cal sempre valorar quins seran els possibles canvis dintre de la xarxa, quins riscos i millores aportarà.
 
+<p>
+<details>
+ <summary>Index dels Principis</summary>
 
+* **[Solucions LldT](#arqtelco)**
+    * nested list 1
+    * nested list 2
+    
+* **[Arquitectura LldT](#arqtelco)**
+
+* **[Arquitectura Telco](#arqtelco)**
+    * [Principis de disseny](#Principisdissenytelco)
+    * [Principis tecnologics](#Principistecnotelco)
+    * [Principis de cost i manteniment](#Principiscosttelco)
+    
+</details>
+</p>
 
