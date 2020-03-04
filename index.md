@@ -20,7 +20,7 @@ img[alt="centrar"] {
   <area shape="rect" coords="375,300,575,330" alt="Sun" href="#arqtelco">
 </map>
 
-### Índex dels principis de l'entorn de treball
+#### Índex dels principis de l'entorn de treball
 
 - **[1. Solucions LLdT](#1-solucions-lldt)**
   * [1.1 Disseny aplicacions escriptori](#11-disseny-aplicacions-escriptori)
