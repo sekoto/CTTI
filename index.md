@@ -38,11 +38,14 @@ img[alt="centrar"] {
   * [3.2 Principis tecnologics](#32-principis-tecnologics)   
   * [3.3 Principis de cost i mateniment](#33-principis-de-cost-i-mateniment)
 
-
----
 <!-- toc -->
 
 # Principis d'arquitectura d'entorn de treball
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
 ---
 # 1. Solucions LLdT
 ![minipic](/images/arq.png)
@@ -91,7 +94,6 @@ img[alt="centrar"] {
 *Els principis d’arquitectura CTTI són les normes i directrius generals destinades a ser perdurables i rarament modificables i tenen com a objectiu informar i recolzar la forma en què CTTI vol que s’implementin les xarxes de telecomunicacions.*
   
 ---
-
 
 ## 3.1 Principis de disseny
 
