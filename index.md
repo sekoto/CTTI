@@ -22,7 +22,7 @@ img[alt="centrar"] {
 </map>
 
 ### Índex dels principis de l'entorn de treball
-&nbsp; 
+
 - **[1. Solucions LLdT](#1-solucions-lldt)**
   * [1.1 Disseny aplicacions escriptori](#11-disseny-aplicacions-escriptori)
   * [1.2 Tecnologia](#12-tecnologia )   
@@ -31,7 +31,7 @@ img[alt="centrar"] {
 &nbsp;
 - **[2. Arquitectura LLdT](#2-arquitectura-lldt)**
   * [2.1. Global](#21-global)
-  * [2.2 Terminals corporatius](#22-terminals-corporatius)  
+  * [2.2 Terminals corporatius](#22-terminals-corporatius)
 &nbsp;  
 - **[3. Arquitectura TELCO](#3-arquitectura-telco)**
   * [3.1 Principis de disseny](#31-principis-de-disseny)
