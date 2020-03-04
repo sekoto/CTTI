@@ -12,7 +12,7 @@ img[alt="centrar"] {
 </style>
 
 
-<img src="https://cburgales.github.io/CTTI/images/ET.png" alt="centrar" usemap="#planetmap">
+<img src="https://cburgales.github.io/CTTI/images/ET_map.png" alt="centrar" usemap="#planetmap">
 
 
 <map name="planetmap">
