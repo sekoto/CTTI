@@ -14,14 +14,6 @@ img[alt="centrar"] {
 
 <img src="https://cburgales.github.io/CTTI/images/ET.png" alt="centrar">
 
-![centrar](/images/arq.png)
-
-<p align="center">
-
-  <img src="https://cburgales.github.io/CTTI/images/ET.png">
-  This is an image
-
-</p>
 
 <map name="planetmap">
   <area shape="rect" coords="23,300,185,330" alt="Sun" href="#ArquitecturaTELCO">
