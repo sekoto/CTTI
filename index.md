@@ -39,6 +39,8 @@ img[alt="centrar"] {
   * [3.3 Principis de cost i mateniment](#33-principis-de-cost-i-mateniment)
 
 <!-- toc -->
+&nbsp;
+&nbsp;
 
 # Principis d'arquitectura d'entorn de treball
 &nbsp;
