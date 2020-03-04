@@ -12,13 +12,19 @@ img[alt="centrar"] {
 </style>
 
 
-<img src="https://cburgales.github.io/CTTI/images/ET.png" alt="centrar" usemap="#planetmap">
+<img src="https://cburgales.github.io/CTTI/images/ET.png" alt="centrar" usemap="#image-map">
 
 
 <map name="planetmap">
   <area shape="rect" coords="23,300,185,330" alt="Sun" href="#ArquitecturaTELCO">
   <area shape="rect" coords="190,300,371,330" alt="Sun" href="#ArquitecturaTELCO">
   <area shape="rect" coords="375,300,575,330" alt="Sun" href="#arqtelco">
+</map>
+
+<map name="image-map">
+    <area target="" alt="solucions" title="solucions" href="solucions" coords="37,371,227,399" shape="rect">
+    <area target="" alt="lldt" title="lldt" href="arquitecturalldt" coords="242,369,457,400" shape="rect">
+    <area target="" alt="telco" title="telco" href="arquitecturatelco" coords="467,371,681,399" shape="rect">
 </map>
 
 ### Índex dels principis de l'entorn de treball
